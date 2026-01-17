@@ -1,0 +1,107 @@
+Benchmark Results - 17/01/2026 14:59:06,91 
+========================================== 
+ 
+ 
+===== Matrice 500 x 500 ===== 
+ 
+Sequential: 
+=== Multiplication Matrice-Vecteur Séquentielle (C++) ===
+Taille de la matrice: 500 x 500
+Mémoire utilisée: 1.91 MB
+
+Initialisation des données...
+
+Début du calcul...
+✓ Calcul terminé!
+
+✓ Vérification réussie (erreur = 0.00e+00)
+
+=== Performance ===
+Temps d'exécution: 0.000219 secondes
+Performance: 2.282 GFLOPS
+ 
+MPI 2 proc: 
+ 
+MPI 4 proc: 
+ 
+Hybrid 2x2: 
+ 
+------------------------------------------ 
+ 
+===== Matrice 1000 x 1000 ===== 
+ 
+Sequential: 
+=== Multiplication Matrice-Vecteur Séquentielle (C++) ===
+Taille de la matrice: 1000 x 1000
+Mémoire utilisée: 7.64 MB
+
+Initialisation des données...
+
+Début du calcul...
+✓ Calcul terminé!
+
+✓ Vérification réussie (erreur = 0.00e+00)
+
+=== Performance ===
+Temps d'exécution: 0.001003 secondes
+Performance: 1.994 GFLOPS
+ 
+MPI 2 proc: 
+ 
+MPI 4 proc: 
+ 
+Hybrid 2x2: 
+ 
+------------------------------------------ 
+ 
+===== Matrice 2000 x 2000 ===== 
+ 
+Sequential: 
+=== Multiplication Matrice-Vecteur Séquentielle (C++) ===
+Taille de la matrice: 2000 x 2000
+Mémoire utilisée: 30.55 MB
+
+Initialisation des données...
+
+Début du calcul...
+✓ Calcul terminé!
+
+✓ Vérification réussie (erreur = 0.00e+00)
+
+=== Performance ===
+Temps d'exécution: 0.004139 secondes
+Performance: 1.933 GFLOPS
+ 
+MPI 2 proc: 
+ 
+MPI 4 proc: 
+ 
+Hybrid 2x2: 
+ 
+------------------------------------------ 
+ 
+===== Matrice 5000 x 5000 ===== 
+ 
+Sequential: 
+=== Multiplication Matrice-Vecteur Séquentielle (C++) ===
+Taille de la matrice: 5000 x 5000
+Mémoire utilisée: 190.81 MB
+
+Initialisation des données...
+
+Début du calcul...
+✓ Calcul terminé!
+
+✓ Vérification réussie (erreur = 0.00e+00)
+
+=== Performance ===
+Temps d'exécution: 0.031762 secondes
+Performance: 1.574 GFLOPS
+ 
+MPI 2 proc: 
+ 
+MPI 4 proc: 
+ 
+Hybrid 2x2: 
+ 
+------------------------------------------ 
